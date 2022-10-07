@@ -1,5 +1,5 @@
 foods = []
-sweet1 = {"ID": "1", "Name": "soor ploom", "Calories": 380, "Weight": 15} #weight in grams, calories per 100g
+sweet1 = {"ID": "1", "Name": "haribles", "Calories": 380, "Weight": 15} #weight in grams, calories per 100g
 sweet2 = {"ID": "2", "Name": "choco bar", "Calories": 450, "Weight": 57}
 savoury1 = {"ID": "3", "Name": "bag of popcorn", "Calories": 485, "Weight": 18}
 
