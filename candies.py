@@ -29,4 +29,4 @@ if finalChoice == "Y":
 elif finalChoice == "N":
     print("You probably don't need that {} anyway...".format(chosenFood["Name"]))
 else:
-    print("Sorry, I only unerstand Y or N! Try again!")
+    print("Sorry, I only understand Y or N! Try again!")
